@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Coding
+- Netflix
+- Biryani
+  * Especially chicken biryani
+  * And mutton biryani
